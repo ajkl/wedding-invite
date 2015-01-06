@@ -24,27 +24,27 @@ people:
 
 - name: Diana Somne
   pic: 3
-  position: Vadhu Mata
+  position: वधू माई
 
 - name: Prakash Somne
   pic: 2
-  position: Vadhu Pita
+  position: वधू पिता
   
 - name: Raviraj Kale
   pic: 1
-  position: Var Bhau
+  position: वर भाऊ
 
 - name: Snehal Kale
   pic: 2
-  position: Var Vahini
+  position: वर वाहिनी
 
 - name: Parag Somne
   pic: 3
-  position: Vadhu Bhau
+  position: वधू भाऊ
 
 - name: Shalaka Somne
   pic: 1
-  position: Vadhu Vahini
+  position: वधू वाहिनी
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
