@@ -2,9 +2,9 @@ url: https://ajkl.github.io
 baseurl: /wedding-invite/
 
 # Site settings
-title: Its On! You better not miss it!
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Payal&nbsp;&nbsp;&nbsp;&#10084;&nbsp;&nbsp;Ajinkya
+email: kaleajinkya@gmail.com
+description: "Git pages hosted Wedding Invitation"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,56 +14,53 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Vijaya Kale
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: वर माई
 
-- name: Larry Parker
+- name: Gorakhnath Kale
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: वर पिता
 
-- name: Diana Petersen
+- name: Seema Somne
+  pic: 9
+  position: वधू माई
+
+- name: Subhash Somne
+  pic: 10
+  position: वधू पिता
+  
+- name: Raviraj Kale
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: वर भाऊ
+
+- name: Snehal Kale
+  pic: 6
+  position: वर वहिनी
+
+- name: Parag Somne
+  pic: 7
+  position: वधू भाऊ
+
+- name: Shalaka Somne
+  pic: 8
+  position: वधू वहिन
+  
+- name: Ishaan Kale
+  pic: 4
+  position: छोटे सरकार
+  
+- name: Rajendra Somne
+  pic: 5
+  position: काका
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://twitter.com/ajinkyakale
   - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+    url: http://github.com/ajkl
 
 # Build settings
 markdown: kramdown
