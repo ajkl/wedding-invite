@@ -22,11 +22,11 @@ people:
   pic: 2
   position: वर पिता
 
-- name: Diana Somne
+- name: Seema Somne
   pic: 3
   position: वधू माई
 
-- name: Prakash Somne
+- name: Subhash Somne
   pic: 2
   position: वधू पिता
   
@@ -45,6 +45,14 @@ people:
 - name: Shalaka Somne
   pic: 1
   position: वधू वहिनी
+  
+- name: Ishaan Kale
+  pic: 4
+  position: वधू वहिन
+  
+- name: Rajendra Somne
+  pic: 5
+  position: वधू वहिन
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
