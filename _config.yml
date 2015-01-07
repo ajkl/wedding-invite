@@ -27,7 +27,7 @@ people:
   position: वधू माई
 
 - name: Subhash Somne
-  pic: 9
+  pic: 5
   position: वधू पिता
   
 - name: Raviraj Kale
@@ -39,20 +39,21 @@ people:
   position: वर वहिनी
 
 - name: Parag Somne
-  pic: 7
+  pic: 1
   position: वधू भाऊ
 
 - name: Shalaka Somne
   pic: 8
-  position: वधू वहिनी
+  position: वधू वहिन
   
 - name: Ishaan Kale
   pic: 4
-  position: वधू वहिन
+  position: छोटे सरकार
   
 - name: Rajendra Somne
   pic: 5
-  position: वधू वहिन
+  position: काका
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
